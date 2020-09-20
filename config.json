@@ -1,0 +1,6 @@
+{
+    "token": "Token goes here",
+    "prefix": "$",
+    "everyoneMention": true,
+    "hostedBy": true
+}
